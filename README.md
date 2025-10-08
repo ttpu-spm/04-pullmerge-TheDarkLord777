@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/TIifORAF)
 # GitHub Skills - _Review Pull Requests_ and _Resolve Merge Conflicts_
 
 **SPM 2025 Assignment N4 Template**
@@ -25,5 +26,5 @@ This assignment introduces you how to _Review Pull Requests_ and _Resolve Merge 
 ## Course Repository URLs
 
 _Here you should put the URL of your final repository after finishing the given tutorial_
-- Review Pull Requests:   _REPO LINK_
-- Resolve Merge Conflicts: _REPO LINK_
+- Review Pull Requests:   [_REPO LINK_](https://github.com/TheDarkLord777/skills-review-pull-requests)
+- Resolve Merge Conflicts: [_REPO LINK_](https://github.com/TheDarkLord777/skills-resolve-merge-conflicts)
